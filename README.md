@@ -2,5 +2,5 @@
 ----------------------------------------------------------------------------
 ## My assignments
 
-* [Lesson 2: HTML Tags and Attributes](https://cycdid.github.io/homeworks/lesson_2/)
-* [Lesson 3: CSS Basics](https://cycdid.github.io/homeworks/lesson_3/)
+* [Lesson 2: HTML Tags and Attributes] (https://cycdid.github.io/homeworks/lesson_2/)
+* [Lesson 3: CSS Basics] (https://cycdid.github.io/homeworks/lesson_3/)
